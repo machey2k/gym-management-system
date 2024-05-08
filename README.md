@@ -15,4 +15,4 @@ A Gym Member Management System using Django. A simple gym member manager to keep
 </ul>
 
 # Installation:
-Refer User Guide document for Installing and Running the project in your system. If you find any difficulty during Installation you can reach me via <a target="_blank" href="https://linkedin.com/in/smahesh29">LinkedIn</a>.</li>
+Refer User Guide document for Installing and Running the project in your system. If you find any difficulty during Installation you can reach me via <a target="_blank" href="https://linkedin.com/in/keddy odhiambo">LinkedIn</a>.</li>
